@@ -2,7 +2,7 @@
 
 A Reinforcement Learning framework (Dueling Double Deep Q-Network) designed to optimize the timing of vasopressor and diuretic withdrawal in Cardiogenic Shock patients using MIMIC-IV time-series data.
 
-
+![D3QN Architecture](model3.jpeg)
 
 ## 📌 Project Resources
 
