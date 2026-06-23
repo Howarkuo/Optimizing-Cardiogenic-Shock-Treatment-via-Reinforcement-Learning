@@ -1,4 +1,4 @@
-# D3QN-RL for ICU Vasopressor & Diuretic Withdrawal
+# D3QN-RL for ICU Vasopressor Treatment Optimization
 
 A Reinforcement Learning framework (Dueling Double Deep Q-Network) designed to optimize the timing of vasopressor and diuretic withdrawal in Cardiogenic Shock patients using MIMIC-IV time-series data.
 
