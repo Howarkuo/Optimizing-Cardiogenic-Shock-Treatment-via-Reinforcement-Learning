@@ -1,0 +1,1 @@
+# Purpose: Extract Vasopressors, Fluids, Urine Output.Your Logic Applied:NED Calculation: $Norepi + Epi + (Phenylephrine/10) + (Dopamine/100) + (Vaso \times 2.5)$.Urine Output: Hourly sum of Foley, Void, Nephrostomy.
